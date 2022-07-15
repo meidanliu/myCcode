@@ -1,0 +1,3 @@
+E:/github-code/c-code/myCcode/selection_circulation/cmake-build-debug/CMakeFiles/selection_circulation.dir
+E:/github-code/c-code/myCcode/selection_circulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/github-code/c-code/myCcode/selection_circulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
